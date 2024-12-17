@@ -1,9 +1,6 @@
 # lib/department.py
 from __init__ import CURSOR, CONN
-
-
 class Department:
-
     # Dictionary of objects saved to the database.
     all = {}
 
